@@ -113,9 +113,9 @@
     "editor.quickSuggestions": {
       "other": "off"
     },
-    "editor.suggestOnTriggerCharacters": false,
+    "editor.suggestOnTriggerCharacters": true,
     "editor.tabCompletion": "on",
-    "editor.snippetSuggestions": "top",
+    "editor.snippetSuggestions": "inline",
     "emmet.triggerExpansionOnTab": true,
     "files.autoSave": "afterDelay",
     "update.mode": "none",
@@ -125,5 +125,7 @@
     "workbench.list.smoothScrolling": true,
     "terminal.integrated.smoothScrolling": true,
     "workbench.activityBar.location": "top",
-    "window.customTitleBarVisibility": "never",
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "chat.commandCenter.enabled": false,
   }
