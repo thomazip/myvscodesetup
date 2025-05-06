@@ -7,7 +7,9 @@ Este repositório armazena minhas configurações personalizadas do Visual Studi
 - `settings.json`: Contém minhas configurações principais e mais detalhadas do VS Code.
 - `simple ver./settings.json`: Uma versão mais simplificada das minhas configurações, possivelmente para diferentes perfis ou necessidades.
 
-## Configurações Principais (`settings.json`)
+## Configurações Principais (`settings.json`) 
+
+`versão VSCODE`
 
 Este arquivo contém uma personalização extensiva da interface do usuário e do comportamento do editor, incluindo:
 
@@ -34,6 +36,8 @@ Este arquivo contém uma personalização extensiva da interface do usuário e d
 
 ## Configurações Simplificadas (`simple ver./settings.json`)
 
+`versão VSCODE FORKs`
+
 Esta versão oferece uma configuração mais leve, com foco em:
 
 - **Tema:** Nord
@@ -53,8 +57,9 @@ Esta versão oferece uma configuração mais leve, com foco em:
   - Fundo transparente
   - Aceleração de GPU desabilitada
 
-  
+![CleanShot 2025-05-06 at 20 50 46@2x](https://github.com/user-attachments/assets/7641dd0d-3d1d-46f7-942e-05cbb720b959)
 
+    
 ## Como Usar
 
 1.  Clone este repositório.
